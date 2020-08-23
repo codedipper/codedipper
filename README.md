@@ -1,3 +1,4 @@
+![-](https://i.imgur.com/iIFL3qi.png)
 # About Me
 Hey everyone! My name is codedipper, but you can call me Reverse.\
 I do crazy and stupid things with JavaScript, HTML, CSS, node.js, and some Python!\
