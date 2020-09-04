@@ -11,6 +11,7 @@ I open source half my projects and I hope to see areound there soon!
 # Tools
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" style="align:left;" height="52px" width="52px"></img>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" height="52px" width="52px"></img>
+<img src="https://discord.js.org/favicon.ico" height="52px" width="52px"></img>
 # My Story
 I had a dream, and I was constantly looking for a way to fall nicely into coding skills.\
 I was having many troubles understanding, code but that all changed November 3rd 2019.\
