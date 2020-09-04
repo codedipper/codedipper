@@ -8,7 +8,7 @@ I open source half my projects and I hope to see areound there soon!
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" style="align:left;" height="52px" width="52px"></img>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" style="align:left;" height="52px" width="52px"></img>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" style="align:left;" height="52px" width="52px"></img>
-# Backend Stuff
+# Tools
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" style="align:left;" height="52px" width="52px"></img>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" height="52px" width="52px"></img>
 # My Story
