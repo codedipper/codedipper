@@ -2,7 +2,7 @@
 # About Me
 Hey everyone! My name is codedipper, but you can call me Reverse.\
 I live in Canada, and I like innovating my code to make it as easy as possibly for non-developers!\
-I open source half my projects and I hope to see areound there soon!
+I open source half my projects and I hope to see around there soon!
 # Languages
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" style="align:left;" height="52px" width="52px"></img>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" style="align:left;" height="52px" width="52px"></img>
