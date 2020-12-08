@@ -18,12 +18,13 @@ One video on YouTube inspired me and taught me the basics of HTML.\
 Soon, I started exploring other languages and tools like CSS, node.js, JavaScript, and now I'm learning Python.\
 The moral of the story is, never give up and stay confident to achieve your dreams.
 # My Best Work
-My [random number generator](https://github.com/codedipper/python-number-chooser) written in Python is my personal favorite.\
-My [star screen](https://github.com/codedipper/stars) is a small, cute project I really love.\
-My [stopwatch](https://github.com/codedipper/stopwatch) is a stopwatch.
+My [random code generator](https://github.com/codedipper/random-code) is my most popular and only NPM package.\
+My [random number generator](https://github.com/codedipper/python-number-chooser) is written in Python and is my first Python project.\
+My [knockoff MS Paint](https://github.com/codedipper/draw) is my take at a paint program in the browser.
 # Socials
 [Twitter](https://twitter.com/Gemma_The_Cat)\
 [Spotify](https://open.spotify.com/user/re7masnzjevm9swfr7yfe27k4)\
+[YouTube](https://www.youtube.com/channel/UCNlfkNEs8Up0jRaXFCN99zg)\
 Discord - `Reverse#0001` or User ID `658346535087636505`.
 # Notes
 - My code editor is [Visual Studio Code](https://code.visualstudio.com/).
