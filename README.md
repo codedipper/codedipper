@@ -16,7 +16,7 @@ I had a dream, and I was constantly looking for a way to fall nicely into coding
 I was having many troubles understanding code, but that all changed November 3rd 2019.\
 One video on YouTube inspired me and taught me the basics of HTML.\
 Soon, I started exploring other languages and tools like CSS, node.js, JavaScript, and now I'm learning Python.\
-The moral of the story is, never give up and stay confident to achieve your dreams.
+The moral of the story is, never give up, you can do it.
 # My Best Work
 My [random code generator](https://github.com/codedipper/random-code) is my most popular and only NPM package.\
 My [random number generator](https://github.com/codedipper/python-number-chooser) is written in Python and is my first Python project.\
