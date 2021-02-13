@@ -25,7 +25,7 @@ My [knockoff MS Paint](https://github.com/codedipper/draw) is my take at a paint
 [Twitter](https://twitter.com/Gemma_The_Cat)\
 [Spotify](https://open.spotify.com/user/re7masnzjevm9swfr7yfe27k4)\
 [YouTube](https://www.youtube.com/channel/UCNlfkNEs8Up0jRaXFCN99zg)\
-Discord - `Reverse#0001` or User ID `658346535087636505`.
+Discord - `Reverse#1728` or User ID `658346535087636505`.
 # Notes
 - My code editor is [Visual Studio Code](https://code.visualstudio.com/).
 
