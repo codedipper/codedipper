@@ -14,7 +14,7 @@ I open-source half my projects and I hope to see around there soon!
 # My Story
 I had a dream, and I was constantly looking for a way to fall nicely into coding skills.\
 I was having many troubles understanding code, but that all changed November 3rd 2019.\
-One video on YouTube inspired me and taught me the basics of HTML.\
+A single video on YouTube inspired me and taught me the basics of HTML.\
 Soon, I started exploring other languages and tools like CSS, node.js, JavaScript, and now I'm learning Python.\
 The moral of the story is, never give up, you can do it.
 # My Best Work
